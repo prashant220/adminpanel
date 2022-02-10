@@ -1,0 +1,20 @@
+.wordpreview__container {
+  padding: 20px;
+  margin: 20px;
+  /* border: 1px solid #000; */
+}
+
+.sentencepreview__container {
+  padding: 10px;
+  margin-bottom: 10px;
+
+  border-radius: 9px;
+  border: 1px solid rgb(226, 225, 225);
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.sentencepreview__text {
+  font-size: 1.1em;
+}

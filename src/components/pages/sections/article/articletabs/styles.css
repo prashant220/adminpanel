@@ -1,0 +1,9 @@
+.articletabs__container {
+}
+
+.articletabs__container .ant-tabs-content-holder .ant-tabs-content {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  min-height: 70vh;
+}

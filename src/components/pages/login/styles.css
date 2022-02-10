@@ -1,0 +1,23 @@
+.login__page__container {
+  width: 100%;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #2f4cb1;
+}
+
+.login__page__form-container {
+  padding: 50px;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 500px;
+
+  -webkit-box-shadow: -1px 1px 8px -4px rgba(0, 0, 0, 0.96);
+  box-shadow: -1px 1px 8px -4px rgba(0, 0, 0, 0.96);
+
+  text-align: center;
+}

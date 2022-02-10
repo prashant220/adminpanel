@@ -1,0 +1,46 @@
+/* primary colors for the template */
+
+:root {
+  --primary-color: #40ae49;
+  --primary-color-light: #8dc63f;
+
+  --bg-light: #f4f4f4;
+
+  --nav-bg-color: #444444;
+  --top-nav-bg-color: #f2f3f5;
+
+  --primary-text-color: #444444;
+  --primary-text-color-light: #737373;
+
+  --color-inactive: #bbbaba;
+}
+
+/* content containers */
+
+.containter-full {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.content-container-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-container-content {
+  width: 90%;
+}
+
+/* margins */
+.mar-l-10 {
+  margin-left: 10px;
+}
+
+/* refresh button */
+.refresh_button_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}

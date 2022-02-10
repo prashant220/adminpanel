@@ -1,0 +1,51 @@
+.previewforfeedbacklist__container .ant-card {
+  background-color: rgb(246, 252, 255);
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.previewfeedback__container {
+  padding: 20px;
+
+  background-color: rgb(254, 255, 246);
+
+  width: 100%;
+}
+
+/* items */
+.previewfeedback__description {
+  font-size: 0.9em;
+  font-style: italic;
+
+  border-left: 4px solid rgb(221, 120, 61);
+  padding-left: 10px;
+}
+.previewfeedback__name {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+.previewfeedback__person_info {
+  margin-bottom: 2px;
+  font-style: italic;
+  font-size: 0.9em;
+  font-weight: 400;
+}
+
+.previewfeedback__detail-1 {
+  margin-bottom: 2px;
+  padding-left: 20px;
+  font-size: 1em;
+}
+.previewfeedback__type {
+  padding: 4px 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: rgb(12, 119, 190);
+  color: #fff;
+}
+.previewfeedback__type_name {
+  padding: 4px 8px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  background-color: rgb(18, 167, 147);
+  color: #fff;
+}

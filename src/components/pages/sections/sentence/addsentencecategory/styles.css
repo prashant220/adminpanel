@@ -1,0 +1,32 @@
+.sentenceandcategory__category-select-container {
+  padding: 20px;
+  border: 1px solid rgb(165, 163, 163);
+  background-color: rgb(226, 242, 247);
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.sentenceandcategory__category-select-edit-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.sentenceandcategory__category-add-conatiner {
+  padding: 20px;
+  border: 1px solid rgb(165, 163, 163);
+  background-color: rgb(209, 240, 225);
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+.sentenceandcategory__sentence-list-container {
+  padding: 10px;
+  border: 1px solid rgb(165, 163, 163);
+  background-color: rgb(246, 248, 246);
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.sc__listsentence__sentencelist-container {
+  padding: 1px;
+}

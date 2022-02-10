@@ -1,0 +1,35 @@
+
+
+.previewfordonationlist__container .ant-card {
+  background-color: rgb(243, 235, 250);
+  color: rgb(20, 20, 20);
+}
+
+.previewfordonationlist__content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-weight: 400;
+}
+
+.previewfordonationlist__text {
+}
+.previewfordonationlist__image {
+  border: 1px solid rgb(223, 223, 223);
+  width: 100px;
+}
+.previewfordonationlist__image img {
+  width: 100%;
+  height: auto;
+}
+.previewfordonationlist__container .ant-card p {
+  margin: 0px;
+  font-size: 1em;
+}
+.previewfordonationlist__title {
+  color: rgb(80, 79, 79);
+}
+.previewfordonationlist__text {
+  font-weight: 500;
+  font-size: 1.2em;
+}

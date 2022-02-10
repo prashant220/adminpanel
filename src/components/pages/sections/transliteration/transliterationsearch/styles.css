@@ -1,0 +1,6 @@
+.transliterationsearch__search-container {
+  width: 100%;
+
+  display: flex;
+  align-items: row;
+}

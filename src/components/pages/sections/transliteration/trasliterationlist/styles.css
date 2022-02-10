@@ -1,0 +1,40 @@
+.listtransliterate__container {
+}
+
+.listtransliterate__alphabets-container {
+  /* padding: 20px 80px; */
+}
+
+.listtransliterate__alphabet-container {
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: #2a4c7d;
+  color: #fff;
+  margin-right: 10px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.listtransliterate__alphabet {
+  padding: 20px;
+  background-color: aquamarine;
+  width: 40px;
+}
+
+.listtransliterate__alphabet-selected {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgb(131, 4, 53);
+  transition: background 1s;
+
+  width: 40px;
+}
+
+@media only screen and (max-width: 992px) {
+  .listtransliterate__alphabets-container {
+    padding: 40px 20px;
+  }
+}

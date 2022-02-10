@@ -1,0 +1,15 @@
+.player__sound-icon {
+  color: rgb(40, 161, 24);
+}
+
+.player__sound-icon-inactive {
+  color: rgb(114, 114, 114);
+}
+
+.player__sound-icon-playing {
+  color: rgb(226, 30, 4);
+}
+
+.player__sound-icon-disabled {
+  color: rgb(141, 141, 141);
+}

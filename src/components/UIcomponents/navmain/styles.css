@@ -1,0 +1,40 @@
+.navmain__container {
+  margin-top: 50px;
+}
+
+.navmain__container .ant-menu {
+  background: none;
+  color: var(--primary-text-color);
+  border-right: none;
+
+  background-color: rgb(19, 54, 82);
+  padding: 10px 10px;
+
+  border-radius: 10px;
+}
+
+.navmain__container .ant-menu-item {
+  font-size: 1.2em;
+  border-radius: 8px;
+
+  background-color: rgb(199, 199, 199);
+}
+
+.navmain__container .ant-menu-item:hover {
+  color: var(--primary-text-color);
+}
+
+.navmain__container
+  .ant-menu:not(.ant-menu-horizontal)
+  .ant-menu-item-selected {
+  background: #f1b61c;
+  color: #000;
+}
+.navmain__container .ant-menu-item-selected {
+  border-radius: 8px;
+  color: var(--primary-text-color);
+}
+
+.navmain__container .ant-menu-item-selected:after {
+  display: none;
+}

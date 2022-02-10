@@ -1,0 +1,20 @@
+.articlelist__container {
+}
+
+.previewforarticlelist__container {
+  padding: 10px 20px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  border: 1px solid rgb(236, 235, 235);
+  margin-bottom: 10px;
+
+  border-radius: 10px;
+}
+
+.previewforarticlelist__artitle-title {
+  font-size: 1.2em;
+  color: rgb(0, 119, 255);
+}

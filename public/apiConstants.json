@@ -1,0 +1,5 @@
+{
+    "QUERY_END_POINT" : "https://jambulingsherpa.org/sherpadictionary-web-interface/query",
+    "MUTATION_END_POINT" : "https://jambulingsherpa.org/sherpadictionary-web-interface/mutation",
+    "LOGIN_END_POINT" : "https://jambulingsherpa.org/sherpadictionary-web-interface/login"
+}

@@ -1,0 +1,22 @@
+.displaycountcard__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.displaycountcard__content-title {
+  font-size: 1.5em;
+  line-height: 1.2em;
+  margin-bottom: 0px;
+  text-transform: capitalize;
+  text-align: center;
+  letter-spacing: 1px;
+}
+.displaycountcard__content-count {
+  color: #2f4cb1;
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 4em;
+  line-height: 1em;
+}

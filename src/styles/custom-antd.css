@@ -1,0 +1,20 @@
+.btn-green {
+  background-color: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
+}
+.btn-green:hover {
+  background-color: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
+}
+.btn-green:active {
+  background-color: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
+}
+.btn-green:focus {
+  background-color: var(--primary-color);
+  color: #fff;
+  border-color: var(--primary-color);
+}

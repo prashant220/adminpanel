@@ -1,0 +1,27 @@
+.videolist__container {
+}
+
+.wordpreviewforvideolist__container {
+  height: 100%;
+  padding: 10px 20px;
+
+  background-color: rgb(247, 247, 235);
+
+  border: 1px solid rgb(236, 235, 235);
+  margin-bottom: 10px;
+
+  border-radius: 10px;
+}
+
+.wordpreviewforvideolist__actions {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.wordpreviewforvideolist__video-title {
+  line-height: 1.3em;
+  margin-top: 10px;
+  font-size: 1.1em;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
